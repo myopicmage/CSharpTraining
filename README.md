@@ -1,5 +1,3 @@
-![ logo](https://pbs.twimg.com/card_img/1194137350315618310/beiG-t0t?format=png&name=600x314)
-
 A set of tutorials aimed at people who already know how to program. Targeted currently at people with experience in
 
 - Java
